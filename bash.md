@@ -40,7 +40,7 @@ ls -la (list, hidden)
 find . (show tree)
 ```
 
-## Remove file/directories
+### Remove file/directories
 ```
 rm <filename>
 rm -rf <directoryname> (recursive, forced) 
