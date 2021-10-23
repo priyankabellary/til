@@ -67,3 +67,9 @@ vim <filename>
 ```
 cat <filename>
 ```
+
+### Home directory as tidle
+```
+$ cat /home/pbb/.ssh/id_ed25519
+$ cat ~/.ssh/id_ed25519
+```
