@@ -4,4 +4,5 @@ A collection of succinct write-ups on whatever I learn on a day to day basis acr
 ## Categories
 ### Bash
 - [To change directory](https://github.com/priyankabellary/til/blob/main/bash.md#to-change-directory)
+- [Present working directories](https://github.com/priyankabellary/til/blob/main/bash.md#present-working-directory)
 - [Clear Screen](https://github.com/priyankabellary/til/blob/main/bash.md#clear-screen)
