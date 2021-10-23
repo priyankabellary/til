@@ -31,3 +31,11 @@ mkdir <directory name>
 ```
 touch <filename>
 ```
+
+### List files
+```
+ls
+ls -lrt (list, reverse, time)
+ls -la (list, hidden)
+find . (show tree)
+```
