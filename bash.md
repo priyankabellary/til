@@ -57,3 +57,8 @@ pbb@kaivalya:~/Documents/test$ ls -lrt
 total 0
 -rwxrwxr-x 1 pbb pbb 0 Oct 23 14:10 newscript.sh
 ```
+
+### Open a file in VIM editor
+```
+vim <filename>
+```
