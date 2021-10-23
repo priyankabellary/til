@@ -12,16 +12,22 @@ pbb@kaivalya:~/Documents$
 ```
 
 ### 2.Present working directory
+```
 pbb@kaivalya:~/Documents$ pwd
 /home/pbb/Documents
+```
 
 ### 3.Clear screen
+```
 clear
+```
 
 ### 4.To create a directory
+```
 mkdir <directory name>
+```
 
 ### 5.To create a file
+```
 touch <filename>
-
-
+```
