@@ -62,3 +62,8 @@ total 0
 ```
 vim <filename>
 ```
+
+### Print content of a file
+```
+cat <filename>
+```
