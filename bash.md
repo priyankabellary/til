@@ -45,3 +45,15 @@ find . (show tree)
 rm <filename>
 rm -rf <directoryname> (recursive, forced) 
 ```
+
+### How to make a file executable
+```
+pbb@kaivalya:~/Documents/test$ touch newscript.sh
+pbb@kaivalya:~/Documents/test$ ls -lrt
+total 0
+-rw-rw-r-- 1 pbb pbb 0 Oct 23 14:10 newscript.sh
+pbb@kaivalya:~/Documents/test$ chmod +x newscript.sh 
+pbb@kaivalya:~/Documents/test$ ls -lrt
+total 0
+-rwxrwxr-x 1 pbb pbb 0 Oct 23 14:10 newscript.sh
+```
