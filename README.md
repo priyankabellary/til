@@ -11,5 +11,5 @@ A collection of succinct write-ups on whatever I learn on a day to day basis acr
 - [List files](https://github.com/priyankabellary/til/blob/main/bash.md#list-files)
 - [Remove file/directories](https://github.com/priyankabellary/til/blob/main/bash.md#remove-filedirectories)
 - [How to make a file executable](https://github.com/priyankabellary/til/blob/main/bash.md#how-to-make-a-file-executable)
-
--[Open a file in VIM editor](https://github.com/priyankabellary/til/blob/main/bash.md#open-a-file-in-vim-editor)
+- [Open a file in VIM editor](https://github.com/priyankabellary/til/blob/main/bash.md#open-a-file-in-vim-editor)
+- [Print content of a file](https://github.com/priyankabellary/til/blob/main/bash.md#open-a-file-in-vim-editor)
