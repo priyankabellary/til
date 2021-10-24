@@ -10,3 +10,5 @@ A collection of succinct write-ups on whatever I learn on a day to day basis acr
 - [To create a file](https://github.com/priyankabellary/til/blob/main/bash.md#to-create-a-file)
 - [List files](https://github.com/priyankabellary/til/blob/main/bash.md#list-files)
 - [Remove file/directories](https://github.com/priyankabellary/til/blob/main/bash.md#remove-filedirectories)
+- [How to make a file executable](https://github.com/priyankabellary/til/blob/main/bash.md#how-to-make-a-file-executable)
+
