@@ -13,6 +13,6 @@ A collection of succinct write-ups on whatever I learn on a day to day basis acr
 - [How to make a file executable](https://github.com/priyankabellary/til/blob/main/bash.md#how-to-make-a-file-executable)
 - [Open a file in VIM editor](https://github.com/priyankabellary/til/blob/main/bash.md#open-a-file-in-vim-editor)
 - [Print content of a file](https://github.com/priyankabellary/til/blob/main/bash.md#open-a-file-in-vim-editor)
-- [Home directory as tidle](https://github.com/priyankabellary/til/blob/main/bash.md#home-directory-as-tidle
+- [Home directory as tidle](https://github.com/priyankabellary/til/blob/main/bash.md#home-directory-as-tidle)
 
 ### GIT
